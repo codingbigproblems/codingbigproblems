@@ -1,6 +1,8 @@
 # Hi, I'm Võ Trần Tuấn Nguyễn 👋
 
-I'm a Computer Science student at the University of Science, Vietnam National University Ho Chi Minh City (VNU-HCM). I'm currently exploring research in machine learning, large language models (LLMs), and other areas of artificial intelligence.
+I'm an aspiring AI Engineer interested in AI research and the broader field of IT. I'm building my experience and portfolio through hands-on projects and by participating in programming competitions, Olympiads, hackathons, and similar events.
+
+If you're looking for a teammate or have experience to share, feel free to reach out. I'm always happy to connect, collaborate, and learn together!
 
 ## 🎓 Education
 
